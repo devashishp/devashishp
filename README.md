@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi Visitor! 👋🏽
+
+I am Dev, a PhD candidate at UC Santa Cruz focusing on storage, systems and SSDs.
+
+- 🔭 I am currently looking for full time positions in data management and storage, feel free to reach out
+- 📫 My details are available at https://sincerely.dev
+- 👀 Feel free to look around!
 
 <!--
 **devashishp/devashishp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
